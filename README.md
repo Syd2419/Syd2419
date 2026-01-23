@@ -8,16 +8,11 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Sydney Dukes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sydney Dukes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sydney Dukes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />][Indeed]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[Indeed]: https://profile.indeed.com/?hl=en_US&co=US&from=gnav-jobseeker-profile--profile-one-frontend
 [linkedin]: https://www.linkedin.com/in/sydney-dukes-b1692821a/
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+</br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
